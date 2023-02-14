@@ -1,16 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Marnie Dabucol</h1>
-
-
-
-
-
-
-
-
-
-
-
+# Hi I'm Marnie B. Dabucol
 
 
 ### ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[About me](https://marnyyy.github.io/about.github.io/)
